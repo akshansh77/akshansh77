@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshansh Singh</h1>
 <h3 align="center">Pre-Final year Undergraduate student from IIIT NAYA RAIPUR major in Data Science and Artificial Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshansh77&label=Profile%20views&color=0e75b6&style=flat" alt="akshansh77" /> </p>
+
 
 - 🔭Passionate about machine learning and artificial intelligence. **with Python, NumPy, Pandas, scikit-learn, and TensorFlow.**
 
@@ -19,10 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/akssssssh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akssssssh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshansh-singh-030b79257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshansh-singh-030b79257" height="30" width="40" /></a>
-<a href="https://kaggle.com/akshansh1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshansh1111" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/iam_akshansh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iam_akshansh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iam_akshansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iam_akshansh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/__akshansh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__akshansh7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
